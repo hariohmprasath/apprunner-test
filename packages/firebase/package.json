@@ -1,0 +1,10 @@
+{
+  "name": "@rocket-pocket/firebase",
+  "version": "1.0.0",
+  "description": "Firebase Related Code",
+  "private": true,
+  "scripts": {
+    "start": "firebase emulators:start",
+    "deploy-hosting": "firebase deploy --only hosting"
+  }
+}
